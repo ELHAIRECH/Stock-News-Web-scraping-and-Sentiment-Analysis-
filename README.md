@@ -12,6 +12,10 @@ this project is devided into three major steps:
      
      3- creating a web application using flask
 
+wordcloud of the data we are working with (from the model creation.ipynp:
+![téléchargement](https://user-images.githubusercontent.com/72352913/128430651-130a14e3-aece-40c5-830b-88d9afee53a7.png)
+
+
 the model produced prediction with 76% accuracy.
 
 the result of comparing sentiment analysis scores of different scores gives us the follwing:
